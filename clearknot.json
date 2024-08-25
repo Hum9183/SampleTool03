@@ -1,0 +1,15 @@
+{
+  "name": "jp.Hum9183.SampleTools03",
+  "version": "0.1.0",
+  "displayName": "Sample Tools 03",
+  "description": "sample tools for clear knot dev",
+  "maya": "2022",
+  "dependencies": {
+    "jp.Hum9183.SampleTools02": "1.0.0"
+ },
+  "author": {
+    "name": "Hum9183",
+    "email": "hum@example.com",
+    "url": "https://www.hum.com"
+  }
+}
